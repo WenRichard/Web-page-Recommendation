@@ -3,14 +3,13 @@
 ## Data Description 
 Data中包含两种网页类型的数据。<br>
 **静态网页**：起点中文网<br>
-1.	Qidian.com <br>
-Train：19015   100种url <br>
-Test： 1900    96种url <br>
-
+1.	Qidian.com<br>
+Train：19015   100种url<br>
+Test： 1900    96种url<br>
 **动态网页**：汽车之家<br>
 2.	autohome.com <br>
-Train：28316   140种url  <br>
-Test： 771    20种url    <br>
+Train：28316   140种url<br>
+Test： 771    20种url<br>
 ## Run Modules 
 ```
 一.文件夹有4个模型
